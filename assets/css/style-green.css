@@ -3409,11 +3409,11 @@ a.btn-cart-xs span {
   margin: 0;
   padding: 0;
   color: #3d3d3d;
-  font-family: 'Merriweather';
+  font-family: 'Calibri';
 }
 .menu-cards .container-inner h4 a {
   color: #3d3d3d;
-  font-family: 'Merriweather';
+  font-family: 'Calibri';
 }
 .menu-cards .item-detail {
   padding: 10px;
@@ -3436,7 +3436,7 @@ a.btn-cart-xs span {
   color: #edd71e;
 }
 .menu-cards .item:hover .btn-primary {
-  background: #D9534F;
+  background: #8DC63F;
   color: #fff;
 }
 .menu-cards .item figure {
